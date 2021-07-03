@@ -1,0 +1,232 @@
+body,p,span{
+    font-family: 'Roboto', sans-serif;
+
+}
+h1,h2,h3,h4,h5,h6,a{
+    font-family: 'Rubik', sans-serif;
+}
+img{
+    max-width: 100%;
+}
+body {margin: 0px;
+}
+nav.navbar.navbar-expand-lg.navbar-light {
+    background-color: #ffc000;
+}
+.nevber-img {
+    margin-left: 22px;
+    width: 70px;
+    border-radius: 100px;
+}
+ul.navbar-nav.me-auto.mb-2.mb-lg-0 {
+    margin-left: 550px;
+    font-size: 20px;
+    font-weight: 500;
+}
+section.home-baner {
+    background-color: #00a2e7;
+}
+h3.wel-come {
+    margin-top: 20px;
+}
+h1.get-your {
+    margin-top: 25px;
+}
+p.i-always {
+    font-size: 20px;
+    margin-top: 30px;
+    width: 450px;
+    margin-bottom: 40px;
+}
+.home-buttone {
+    margin-left: 25px;
+}
+.button-get {
+    font-weight: 100;
+    font-size: 25px;
+    width: 200px;
+    border-color: #00a2e7;
+    background-color: #ffc000 !important;
+    border-radius: 10px;
+    position: relative;
+    z-index: 1;
+}
+.button-get:hover{
+    color: white;
+    border-color: #29418b;
+}
+
+
+.button-get::after{
+    content: "";
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 0;
+    height: 100%;
+    background-color: #29418b;
+    border-color: #29418b;
+    z-index: -1;
+    transition: .3s;
+    
+}
+.button-get:hover::after{
+    width: 100%;
+}
+
+
+
+
+.button-company {
+    font-weight: 500;
+    font-size: 18px;
+    width: 200px;
+    border-color: #00a2e7;
+    background-color: #ffc000 !important;
+    border-radius: 10px;
+    
+    padding: 7px;
+}
+
+
+.button-company:hover{
+    color: white;
+    border-color: #29418b;
+}
+
+
+.button-company::after{
+    content: "";
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 0;
+    height: 100%;
+    background-color: #29418b;
+    border-color: #29418b;
+    z-index: -1;
+    transition: .3s;
+    
+}
+.button-company:hover::after{
+    width: 100%;
+}
+
+
+
+
+.banner-pic {
+    margin-left: -90px;
+}
+.everthing {
+    padding: 100px;
+}
+.everthing-you {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 100px;
+    color: #00a2e7;
+    font-weight: 900;
+    letter-spacing: 5px;
+}
+i.fa.fa-laptop {
+    margin-bottom: 20px;
+    font-size: 50px;
+    color: #ffc000;
+    padding: 10px;
+}
+.box-s {
+    text-align: center;
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+    background-color: #00a2e7;
+    padding: 20px 20px 20px 20px;
+}
+span.we-provide {
+    color: #6f6f6f;
+}
+i.fa.fa-code {
+    font-size: 50px;
+    color: #ffc000;
+    margin-bottom: 30px;
+}
+i.fa.fa-mobile {
+    font-size: 50px;
+    color: #ffc000;
+    margin-bottom: 25px;
+}
+i.fab.fa-wordpress {
+    font-size: 50px;
+    color: #ffc000;
+    margin-bottom: 25px;
+}
+.sticky-top {
+    
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 1020;
+}
+.button-bl {
+    text-align: center;
+    margin-top: -20px;
+}
+.my.sakil-home {
+    margin-top: -40px;
+    text-align: center;
+    color: #00a2e7;
+}
+.my-skil{
+
+    padding: 100px;
+}
+p.html-html {
+    margin-left: 45px;
+    margin-top: -30px;
+    font-size: 20px;
+}
+i.fa.fa-check {
+    font-size: 20px;
+    color:#ffc000 ;
+}
+section.bg-col {
+    margin-top: -60px;
+    padding: 100px;
+    background-color: #00a2e7;
+}
+.discover-my {
+    text-align: center;
+    padding: 55px;
+    color: #00a2e7;
+}
+.latest-w {
+    text-align: center;
+    padding: 40px;
+}
+p.portfolio.\31 {
+    padding: 20px;
+    font-size: 18px;
+    color: #00a2e7;
+}
+section.members {
+    padding: 50px;
+    text-align: center;
+}
+h1.lamia-ebo {
+    color: #00a2e7;
+}
+section.ia-eb {
+    text-align: center;
+    background-color: #00a2e7;
+}
+img.barsha {
+    margin-top: 50px;
+    border-radius: 100px;
+    width: 200px;
+}
+p.tabassum {
+    color: #ffc000;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: 600;
+}
